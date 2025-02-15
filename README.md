@@ -4,10 +4,9 @@
 
 <u>**Description:**</u><br>
 
+Project from the first two sections of the [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2/?couponCode=KEEPLEARNING) course.
 <ul>
-<li>Project from the first two sections of the [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2/?couponCode=KEEPLEARNING) course.</li>
 <li>To run - just like any angular project - run <code>npm run start</code> in the root directory of this project.</li>
-
 </ul>
 
 <u>**Screenshot:**</u><br>
