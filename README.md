@@ -1,4 +1,4 @@
-# Zev Task App
+# Easy Task App
 
 ## <u>Author</u>: Zev Rosenbaum<br><u>Created</u>: February 2025
 
